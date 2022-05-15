@@ -1,6 +1,6 @@
 - Hi, I'm Rhys Baker
-- I'm a student learning cyber security at TAFE
-- Feel free to browse my projects on GitHub!
+- This is where I post my random code snippets or projects
+- Feel free to browse my GitHub!
 
 <!---
 Rhys-Baker/Rhys-Baker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
